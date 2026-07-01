@@ -16,21 +16,21 @@ const PROJECTS = [
     title: "Скандинавский минимализм в ЖК Сидней",
     cat: "apt",
     size: "74 м²",
-    img: "https://unsplash.com",
+    img: "https://plus.unsplash.com/premium_photo-1706152482966-a295c922cdcf?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 2,
     title: "Индустриальный лофт на Новой Риге",
     cat: "house",
     size: "240 м²",
-    img: "https://unsplash.com",
+    img: "https://plus.unsplash.com/premium_photo-1661964071594-0d5ea642833b?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 3,
     title: "Современная классика в Хамовниках",
     cat: "apt",
     size: "115 м²",
-    img: "https://unsplash.com",
+    img: "https://images.unsplash.com/photo-1779960723465-61f8d0f5ac2b?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
 ];
 
